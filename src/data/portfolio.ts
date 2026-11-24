@@ -102,9 +102,9 @@ export const PORTFOLIO_DATA = {
     email: 'raguraju2003@gmail.com',
     phone: '+91 9043950244',
     location: 'Namakkal',
-    resumePath: '/Ragunath_R_Resume.pdf',
+    resumePath: `${import.meta.env.BASE_URL}Ragunath_R_Resume.pdf`,
     resumeFilename: 'Ragunath_R_Resume.pdf',
-    avatarPath: '/profile.jpg',
+    avatarPath: `${import.meta.env.BASE_URL}profile.jpg`,
     socialLinks: [
       {
         label: 'GitHub',
