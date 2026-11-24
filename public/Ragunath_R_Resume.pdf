@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 6639 >>
+stream
+BT /F2 20 Tf 0.060 0.080 0.120 rg 1 0 0 1 46.00 795.89 Tm (RAGUNATH R) Tj ET
+BT /F1 11.5 Tf 0.050 0.420 0.340 rg 1 0 0 1 46.00 778.89 Tm (Software Developer) Tj ET
+BT /F1 9.2 Tf 0.250 0.300 0.360 rg 1 0 0 1 46.00 763.89 Tm (raguraju2003@gmail.com  |  +91 9043950244  |  Namakkal) Tj ET
+BT /F1 8.8 Tf 0.250 0.300 0.360 rg 1 0 0 1 46.00 750.89 Tm (github.com/Ragunath24  |  linkedin.com/in/ragunath-r-207b37264) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 732.89 Tm (PROFILE SUMMARY) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 727.89 m 549.28 727.89 l S
+BT /F1 9.5 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 713.89 Tm (Software Developer skilled in developing enterprise-level Offline-First POS and ERP applications. Proficient in) Tj ET
+BT /F1 9.5 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 700.69 Tm (React.js, TypeScript, Electron.js, NestJS, MySQL, and SQLite. Experienced in web and mobile application development,) Tj ET
+BT /F1 9.5 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 687.49 Tm (REST API development, database management, and full-stack development. Contributed to FreshPi POS and) Tj ET
+BT /F1 9.5 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 674.29 Tm (PoultryCare ERP applications. Certified in Java Full Stack Development.) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 651.09 Tm (EXPERIENCE) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 646.09 m 549.28 646.09 l S
+BT /F2 10 Tf 0.060 0.080 0.120 rg 1 0 0 1 46.00 632.09 Tm (Software Developer - Maaya Software Solutions Pvt. Ltd.) Tj ET
+BT /F2 9.2 Tf 0.250 0.300 0.360 rg 1 0 0 1 461.28 632.09 Tm (07/2025 - Present) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 618.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 618.09 Tm (Developed and maintained the FreshPi POS application, covering Billing, Inventory, Purchase, Transfer, Reports, and) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 605.09 Tm (Customer modules.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 592.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 592.09 Tm (Developed responsive web interfaces using React.js and TypeScript.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 579.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 579.09 Tm (Designed and developed REST APIs using NestJS, with SQLite and MySQL databases.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 566.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 566.09 Tm (Contributed to PoultryCare ERP Web and Mobile Application development, including feature enhancements, bug) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 553.09 Tm (fixes, and performance improvements.) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 530.09 Tm (PROJECTS) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 525.09 m 549.28 525.09 l S
+BT /F2 10 Tf 0.060 0.080 0.120 rg 1 0 0 1 46.00 511.09 Tm (FreshPi - Offline-First Point of Sale \(POS\)) Tj ET
+BT /F1 8.8 Tf 0.280 0.340 0.400 rg 1 0 0 1 46.00 498.09 Tm (Tech Skills: React.js, TypeScript, Electron.js, NestJS, MySQL, SQLite) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 485.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 485.09 Tm (Enterprise desktop POS system for retail businesses.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 472.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 472.09 Tm (Developed inventory, billing, reporting, and transfer modules.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 459.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 459.09 Tm (Implemented offline database synchronization.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 446.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 446.09 Tm (Integrated REST APIs and optimized SQL queries.) Tj ET
+BT /F2 10 Tf 0.060 0.080 0.120 rg 1 0 0 1 46.00 429.09 Tm (PoultryCare ERP - Enterprise Resource Planning System) Tj ET
+BT /F1 8.8 Tf 0.280 0.340 0.400 rg 1 0 0 1 46.00 416.09 Tm (Tech Skills: PHP, Web Development, Mobile Application Development) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 403.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 403.09 Tm (Contributed to the development and enhancement of the PoultryCare ERP system.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 390.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 390.09 Tm (Worked on web and mobile application features for poultry farm management.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 377.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 377.09 Tm (Implemented module enhancements and improved application functionality.) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 364.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 364.09 Tm (Fixed bugs and supported application maintenance and performance improvements.) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 341.09 Tm (TECHNICAL SKILLS) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 336.09 m 549.28 336.09 l S
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 322.09 Tm (Frontend: HTML, CSS, JavaScript, React.js, TypeScript) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 309.09 Tm (Backend: Core Java, PHP, Advanced Java, Node.js, NestJS, REST APIs) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 296.09 Tm (Database: MySQL, SQLite, JDBC) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 46.00 283.09 Tm (Tools: Git, GitHub, VS Code, Eclipse, Postman, SQL Plus) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 260.09 Tm (EDUCATION) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 255.09 m 549.28 255.09 l S
+BT /F2 9.6 Tf 0.060 0.080 0.120 rg 1 0 0 1 46.00 241.09 Tm (B.E - Electronics and Communication Engineering, Kongunadu College of Engineering) Tj ET
+BT /F2 9.2 Tf 0.250 0.300 0.360 rg 1 0 0 1 491.28 241.09 Tm (2020 - 2024) Tj ET
+BT /F1 9.2 Tf 0.200 0.240 0.300 rg 1 0 0 1 46.00 228.09 Tm (CGPA: 7.59) Tj ET
+BT /F2 11 Tf 0.050 0.350 0.280 rg 1 0 0 1 46.00 212.09 Tm (CERTIFICATIONS) Tj ET
+0.750 0.800 0.840 RG 0.85 w 46.00 207.09 m 549.28 207.09 l S
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 193.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 193.09 Tm (Java Full Stack Development Course) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 180.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 180.09 Tm (MySQL for Developers) Tj ET
+BT /F2 9.3 Tf 0.050 0.450 0.350 rg 1 0 0 1 52.00 167.09 Tm (-) Tj ET
+BT /F1 9.3 Tf 0.150 0.180 0.220 rg 1 0 0 1 62.00 167.09 Tm (Web Development Bootcamp \(HTML, CSS & JavaScript\)) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+7093
+%%EOF
